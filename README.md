@@ -2,4 +2,4 @@
 
 ## METAS
 
-0.99 de pontuação(errar um por quere para não arrisar suspeitas)
+0.99 de pontuação(errar um por querer para não arrisar suspeitas)
